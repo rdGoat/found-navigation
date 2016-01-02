@@ -454,7 +454,7 @@ p{
     padding: 0;
     margin: 0;
     position: absolute;
-    bottom: 0;
+    top: 0;
     width: 100%;
 }
 
@@ -594,8 +594,10 @@ p{
 }
   .mobilenav li {
   line-height: 44px;
-  
 }
+.mob-wrap{ 
+    top: 5%;
+    }
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
@@ -642,6 +644,9 @@ p{
     padding: 0 0 100px 0;
     margin-top:0;
   }
+  .mob-wrap{ 
+    top: 40%;
+    }
 
 }
 
