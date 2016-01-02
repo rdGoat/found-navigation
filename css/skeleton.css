@@ -368,7 +368,7 @@ hr {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 p{
   font-size: 1.8rem;
-  color: #efefef;
+  color: #000;
 }
 .menui {
   background: #fff;
@@ -587,7 +587,15 @@ p{
 
 
 /* Larger than mobile */
-@media (min-width: 400px) {}
+@media (min-width: 374px) {
+
+  .mobilenav li a {
+  font-size: 1.6rem;
+}
+  .mobilenav li {
+  line-height: 44px;
+  
+}
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
