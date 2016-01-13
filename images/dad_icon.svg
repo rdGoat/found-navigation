@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#EE3A39;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#EE3A39;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#EE3A39;}
+	.st3{fill:none;stroke:#EE3A39;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M94.9,84.2H15.7c-4.7,0-8.5-3.8-8.5-8.5V27.5c0-4.7,3.8-8.5,8.5-8.5h79.2c4.7,0,8.5,3.8,8.5,8.5v48.2
+	C103.4,80.4,99.5,84.2,94.9,84.2z"/>
+<g>
+	<line class="st1" x1="17" y1="37" x2="52" y2="37"/>
+	<line class="st1" x1="17" y1="44" x2="52" y2="44"/>
+	<line class="st1" x1="17" y1="51" x2="52" y2="51"/>
+	<line class="st1" x1="17" y1="58" x2="52" y2="58"/>
+	<line class="st1" x1="17" y1="65" x2="42" y2="65"/>
+	<rect x="62.3" y="35.8" class="st1" width="31.5" height="31.5"/>
+</g>
+<rect x="45" y="84" class="st2" width="20.5" height="9"/>
+<line class="st3" x1="34" y1="93.5" x2="77" y2="93.5"/>
+</svg>
